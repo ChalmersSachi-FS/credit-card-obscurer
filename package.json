@@ -1,0 +1,23 @@
+{
+  "name": "credit-card-obscurer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChalmersSachi-FS/credit-card-obscurer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChalmersSachi-FS/credit-card-obscurer/issues"
+  },
+  "homepage": "https://github.com/ChalmersSachi-FS/credit-card-obscurer#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
